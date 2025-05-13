@@ -14,13 +14,24 @@ James also served as a fair housing Trial Attorney at the U.S. Department of Hou
 
 ### Professional Experience
 
-* Deputy Director, Division of Public Interest Examinations, Federal Housing Finance Agency (2024 - present)
-* Associate Director, Office of Fair Lending Oversight, Federal Housing Finance Agency (2018 - 2024)
-* Senior Counsel, Office of Regulation, Consumer Financial Protection Bureau (2013 - 2018)
-* Trial Attorney, Office of General Counsel, U.S. Department of Housing and Urban Development (2008 - 2013)
-* Fair Housing Instructor, National Fair Housing Training Academy (2016 - 2017)
-* Carl Albert Executive Fellow, Oklahoma Attorney General (2007 - 2008)
-* Law Clerk, Norman, Wohlgemuth, Chandler, and Dowdell (2006)
+#### Federal Housing Finance Agency (FHFA)
+Deputy Director, Division of Public Interest Examinations (2024 - present)  
+Associate Director, Office of Fair Lending Oversight (2018 - 2024)
+
+#### Consumer Financial Protection Bureau (CFPB)
+Senior Counsel, Office of Regulations (2013 - 2018)  
+
+#### U.S. Department of Housing and Urban Development (HUD)
+Trial Attorney, Fair Housing Division, Office of General Counsel (2008 - 2013)
+
+#### National Fair Housing Training Academy
+Fair Housing Instructor (2016 - 2017)
+
+#### Oklahoma Attorney General
+Carl Albert Executive Fellow, Criminal Appeals Section (2007 - 2008)
+
+#### Norman, Wohlgemuth, Chandler, and Dowdell
+Law Clerk (2006)
 
 ### Education
 
@@ -47,6 +58,18 @@ James also served as a fair housing Trial Attorney at the U.S. Department of Hou
 * National Merit Scholar (2001)
   
 ### Cases
+
+#### HUD v. Townhomes of King's Lake
+This matter involved a HUD charge of discrimination that alleged familial status discrimination against a Florida homeowners' association. The case elected to the Department of Justice (DOJ) and resulted in a complaint and consent decree. The consent decree
+
+#### HUD v. Callaway
+This matter involved a HUD charge of discrimination that alleged retaliation against an Alabama property manager. The case elected to DOJ and resulted in a settlement.
+
+#### HUD v. Morgan
+This matter involved a HUD charge of discrimination that alleged familial status discrimination against a Wyoming landlord. The case was tried before a HUD administrative law judge and was appealed to the Secretary of HUD, resulting in a final order.
+
+#### HUD v. Texan RV Park
+This matter involved a HUD charge of discrimination that alleged sex discrimination against a Texas RV park owner. The case elected to DOJ and resulted in a settlement.
 
 
 ### Publications
