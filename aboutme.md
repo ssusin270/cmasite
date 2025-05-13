@@ -88,13 +88,20 @@ _Press:_ [JD Supra](https://www.jdsupra.com/legalnews/fhfa-releases-advisory-not
 _This guidance was rescinded by FHFA Director Bill Pulte in 2025._
 
 #### [FHFA Advisory Bulletin 2023-05: Enterprise Fair Lending and Fair Housing Rating System](https://web.archive.org/web/20250310220422/https://www.fhfa.gov/advisory-bulletin/ab-2023-05)
-James oversaw the establishment of a supervisory rating system for FHFA to rate fair lending and fair housing compliance management by Fannie Mae and Freddie Mac. The system is the first federal fair lending-focused financial regulator rating system.
+James oversaw the establishment of a supervisory rating system for FHFA to rate fair lending and fair housing compliance management by Fannie Mae and Freddie Mac. The system is the first federal fair lending-focused financial regulator rating system.  
 _Press:_ [Inside Mortgage Finance](https://www.insidemortgagefinance.com/articles/229024-fhfa-to-rate-gses-fair-lending-activities?v=preview)  
 _This guidance was rescinded by FHFA Director Bill Pulte in 2025._
 
 #### [Action Plan to Advance Property Appraisal and Valuation Equity](https://archives.hud.gov/pave.hud.gov/PAVEActionPlan.pdf)
-James served as FHFA's representative on the PAVE taskforce and led FHFA's efforts to address appraisal bias including changes to Fannie and Freddie appraisal policies to incorporate improvements to reconsideration of value, updates to policies to improve time adjustments and other barriers causing disparities, refer potential violations of law to HUD and to state appraisal regulators, and to to release public appraisal data.  
+James served as FHFA's representative on the PAVE taskforce and led FHFA's efforts to address appraisal bias including changes to Fannie and Freddie appraisal policies to incorporate improvements to reconsideration of value, updates to policies to improve time adjustments and other barriers causing disparities, refer potential violations of law to HUD and to state appraisal regulators, and to to release public appraisal data.    
 _Press:_ [New York Times](https://www.nytimes.com/2023/06/01/realestate/kamala-harris-home-appraisals-discrimination.html)
 
+#### [FHFA Advisory Bulletin 2021-04: Enterprise Fair Lending and Fair Housing Compliance](https://web.archive.org/web/20250310220426/https://www.fhfa.gov/advisory-bulletin/ab-2021-04)
+James oversaw the establishment of regulatory guidance on compliance by Fannie Mae and Freddie Mac with fair lending and fair hosuing laws. This guidance addressed potential fair lending and fair housing issues in Fannie and Freddie policies and procedures, mortgage purchase programs, automated underwriting systems, multifamily lending, and management of real-estate owned property.  
+_This guidance was rescinded by FHFA Director Bill Pulte in 2025._
+
+#### [FHFA/HUD MOU on Fair Housing and Fair Lending Coordination](https://www.hud.gov/sites/dfiles/PA/documents/FHFA-HUD-MOU_8122021.pdf)
+James drafted and negotiated the first memorandum of understanding between FHFA and HUD regarding fair lending and fair housing coordination. This MOU led to greater coordination of fair lending efforts in the federal government with respect to the mortgage market and housing programs.  
+_Press:_ [Housing Wire](https://www.housingwire.com/articles/hud-and-fhfa-partner-to-advance-fair-lending-housing-enforcement/), [Vital Law](https://www.vitallaw.com/news/top-story-hud-fhfa-announce-partnership-to-improve-fair-housing-and-fair-lending-practices/blw01cd15535e7df2100097bf000d3a8abb4e02?refURL=https%3A%2F%2Fwww.google.com%2F#.)
 
 ### Presentations
