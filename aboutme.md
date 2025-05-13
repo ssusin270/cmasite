@@ -110,3 +110,6 @@ James drafted and negotiated the first memorandum of understanding between FHFA 
 _Press:_ [Housing Wire](https://www.housingwire.com/articles/hud-and-fhfa-partner-to-advance-fair-lending-housing-enforcement/), [Vital Law](https://www.vitallaw.com/news/top-story-hud-fhfa-announce-partnership-to-improve-fair-housing-and-fair-lending-practices/blw01cd15535e7df2100097bf000d3a8abb4e02?refURL=https%3A%2F%2Fwww.google.com%2F#.), [Inside Mortgage Finance](https://www.insidemortgagefinance.com/articles/222249-fhfa-agrees-to-collaborate-with-hud-on-fair-housing-enforcement?v=preview), [National Mortgage Professional](https://nationalmortgageprofessional.com/news/hud-fhfa-collaborate-fair-housing-fair-lending-enforcement)
 
 ### Presentations
+
+#### [Equitable Housing Finance Plans Listening Session 2023](https://www.youtube.com/watch?v=fcNxVebXg4Y)
+FHFA hosted a listening session for stakeholders to provide input into the equitable housing finance plans in 2023, which included opening remarks from James.
