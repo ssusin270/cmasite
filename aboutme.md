@@ -112,4 +112,7 @@ _Press:_ [Housing Wire](https://www.housingwire.com/articles/hud-and-fhfa-partne
 ### Presentations
 
 #### [FHFA: Equitable Housing Finance Plans Listening Session 2023](https://www.youtube.com/watch?v=fcNxVebXg4Y)
-FHFA hosted a listening session for stakeholders to provide input into the equitable housing finance plans in 2023, which included opening remarks from James.
+FHFA hosted a listening session for stakeholders to provide input into the equitable housing finance plans in 2023 which included opening remarks from James.
+
+#### [FHFA: Closing the Homeownership Gap Listening Session 2021](https://web.archive.org/web/20241231023312/https://www.fhfa.gov/news/videos/fhfa-public-listening-session-closing-the-gap-to-sustainable-homeownership)
+FHFA hosted a listening session for stakeholders to provide input on strategies to reduce the racial homeownership gap which included introductory remarks and moderation from James.
