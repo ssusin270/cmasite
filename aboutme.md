@@ -83,11 +83,13 @@ James oversaw the establishment of regulatory guidance on compliance by the Fede
 _This guidance was rescinded by FHFA Director Bill Pulte in 2025._
 
 #### [FHFA Advisory Bulletin 2024-06: Regulated Entity Unfair or Deceptive Acts or Practices Compliance](https://web.archive.org/web/20250310220422/https://www.fhfa.gov/advisory-bulletin/ab-2024-06)
-James oversaw the establishment of regulatory guidance on compliance by Fannie Mae, Freddie Mac, and the Federal Home Loan Banks with the prohibition on unfair or deceptive acts or practices in violation of Section 5 of the Federal Trade Commission Act. This guidance addressed unfair and deceptive practices that impacted lenders, homebuyers, and renters.  
+James oversaw the establishment of regulatory guidance on compliance by Fannie Mae, Freddie Mac, and the Federal Home Loan Banks with the prohibition on unfair or deceptive acts or practices in violation of Section 5 of the Federal Trade Commission Act. This guidance addressed unfair and deceptive practices that impacted lenders, homebuyers, and renters.
+_Press:_ [JD Supra](https://www.jdsupra.com/legalnews/fhfa-releases-advisory-notice-on-udap-6998117/)
 _This guidance was rescinded by FHFA Director Bill Pulte in 2025._
 
 #### [FHFA Advisory Bulletin 2023-05: Enterprise Fair Lending and Fair Housing Rating System](https://web.archive.org/web/20250310220422/https://www.fhfa.gov/advisory-bulletin/ab-2023-05)
 James oversaw the establishment of a supervisory rating system for FHFA to rate fair lending and fair housing compliance management by Fannie Mae and Freddie Mac. The system represented the first federal fair lending-focused supervisory rating system.
+_Press:_ [Inside Mortgage Finance](https://www.insidemortgagefinance.com/articles/229024-fhfa-to-rate-gses-fair-lending-activities?v=preview)
 _This guidance was rescinded by FHFA Director Bill Pulte in 2025._
 
 #### [Action Plan to Advance Property Appraisal and Valuation Equity](https://archives.hud.gov/pave.hud.gov/PAVEActionPlan.pdf)
