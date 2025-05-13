@@ -35,10 +35,14 @@ Law Clerk (2006)
 
 ### Education
 
-* University of Oklahoma College of Law, Juris Doctor (J.D.), _with honors_ (2008)
+#### University of Oklahoma College of Law
+Juris Doctor (J.D.), _with honors_ (2008)  
+  * Order of the Barristers
   * American Indian Law Review, Note Editor
   * National Appellate Advocacy Team
-* University of Tulsa, Bachelor of Arts (B.A.) in History, _with high honors_ (2005)
+ #### University of Tulsa
+ Bachelor of Arts (B.A.) in History, _with high honors_ (2005)
+  * National Merit Scholar
 
 ### Bar Memberships
 
@@ -54,8 +58,6 @@ Law Clerk (2006)
 * Director's Achievement Award, Federal Housing Finance Agency (2022)
 * Excellence in Management Award, Federal Housing Finance Agency (2020)
 * Secretary's Award for Excellence, U.S. Department of Housing and Urban Development (2013)
-* Order of the Barristers, University of Oklahoma College of Law (2008)
-* National Merit Scholar (2001)
   
 ### Cases
 
