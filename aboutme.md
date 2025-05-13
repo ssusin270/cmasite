@@ -102,6 +102,6 @@ _This guidance was rescinded by FHFA Director Bill Pulte in 2025._
 
 #### [FHFA/HUD MOU on Fair Housing and Fair Lending Coordination](https://www.hud.gov/sites/dfiles/PA/documents/FHFA-HUD-MOU_8122021.pdf)
 James drafted and negotiated the first memorandum of understanding between FHFA and HUD regarding fair lending and fair housing coordination. This MOU led to greater coordination of fair lending efforts in the federal government with respect to the mortgage market and housing programs.  
-_Press:_ [Housing Wire](https://www.housingwire.com/articles/hud-and-fhfa-partner-to-advance-fair-lending-housing-enforcement/), [Vital Law](https://www.vitallaw.com/news/top-story-hud-fhfa-announce-partnership-to-improve-fair-housing-and-fair-lending-practices/blw01cd15535e7df2100097bf000d3a8abb4e02?refURL=https%3A%2F%2Fwww.google.com%2F#.)
+_Press:_ [Housing Wire](https://www.housingwire.com/articles/hud-and-fhfa-partner-to-advance-fair-lending-housing-enforcement/), [Vital Law](https://www.vitallaw.com/news/top-story-hud-fhfa-announce-partnership-to-improve-fair-housing-and-fair-lending-practices/blw01cd15535e7df2100097bf000d3a8abb4e02?refURL=https%3A%2F%2Fwww.google.com%2F#.), [Inside Mortgage Finance](https://www.insidemortgagefinance.com/articles/222249-fhfa-agrees-to-collaborate-with-hud-on-fair-housing-enforcement?v=preview), [National Mortgage Professional](https://nationalmortgageprofessional.com/news/hud-fhfa-collaborate-fair-housing-fair-lending-enforcement)
 
 ### Presentations
