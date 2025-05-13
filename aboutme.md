@@ -41,7 +41,7 @@ Juris Doctor (J.D.), with honors (2008)
   * American Indian Law Review, Note Editor
   * National Appellate Advocacy Team
 
- #### University of Tulsa
+ #### University of Tulsa  
  Bachelor of Arts (B.A.) in History, with high honors (2005)
   * National Merit Scholar
 
