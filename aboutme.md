@@ -47,18 +47,18 @@ Juris Doctor (J.D.), with honors (2008)
 
 ### Bar Memberships
 
-* Oklahoma
-* District of Columbia
+Oklahoma  
+District of Columbia
 
 ### Professional Certifications
 
-* Certified Mortgage Compliance Professional (CMCP), Mortgage Bankers Association
+Certified Mortgage Compliance Professional (CMCP), Mortgage Bankers Association
 
 ### Awards and Honors
 
-* Director's Achievement Award, Federal Housing Finance Agency (2022)
-* Excellence in Management Award, Federal Housing Finance Agency (2020)
-* Secretary's Award for Excellence, U.S. Department of Housing and Urban Development (2013)
+Director's Achievement Award, Federal Housing Finance Agency (2022)  
+Excellence in Management Award, Federal Housing Finance Agency (2020)  
+Secretary's Award for Excellence, U.S. Department of Housing and Urban Development (2013)
   
 ### Cases
 
@@ -78,9 +78,18 @@ This matter involved a HUD charge of discrimination that alleged familial status
 
 ### Publications
 
+#### [FHFA Advisory Bulletin 2024-07: FHLBank Fair Lending and Fair Housing Compliance](https://web.archive.org/web/20250310220420/https://www.fhfa.gov/advisory-bulletin/ab-2024-07)
+James oversaw the establishment of regulatory guidance on compliance by the Federal Home Loan Banks (FHLBank) with fair lending and fair hosuing laws. This guidance addressed potential fair lending and fair housing issues in FHLBank policies and procedures, mortgage purchase programs, advances, and affordable housing and community development grant programs.  
+_This guidance was rescinded by FHFA Director Bill Pulte in 2025._
+
+#### [FHFA Advisory Bulletin 2024-06: Regulated Entity Unfair or Deceptive Acts or Practices Compliance](https://web.archive.org/web/20250310220422/https://www.fhfa.gov/advisory-bulletin/ab-2024-06)
+James oversaw the establishment of regulatory guidance on compliance by Fannie Mae, Freddie Mac, and the Federal Home Loan Banks with the prohibition on unfair or deceptive acts or practices in violation of Section 5 of the Federal Trade Commission Act. This guidance addressed unfair and deceptive practices that impacted lenders, homebuyers, and renters.  
+_This guidance was rescinded by FHFA Director Bill Pulte in 2025._
+
 #### 
 
-#### [Action Plan to Advance Property Appraisal and Valuation Equity](https://archives.hud.gov/pave.hud.gov/PAVEActionPlan.pdf) (PAVE) (2022)  
+
+#### [Action Plan to Advance Property Appraisal and Valuation Equity](https://archives.hud.gov/pave.hud.gov/PAVEActionPlan.pdf)
 James served as FHFA's representative on the PAVE taskforce and led FHFA's efforts to address appraisal bias including changes to Fannie and Freddie appraisal policies to incorporate improvements to reconsideration of value, updates to policies to improve time adjustments and other barriers causing disparities, refer potential violations of law to HUD and to state appraisal regulators, and to to release public appraisal data.  
 _Press:_ [New York Times](https://www.nytimes.com/2023/06/01/realestate/kamala-harris-home-appraisals-discrimination.html)
 
