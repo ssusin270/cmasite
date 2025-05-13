@@ -14,18 +14,29 @@ James also served as a fair housing Trial Attorney at the U.S. Department of Hou
 
 ### Professional Experience
 
+* Deputy Director, Division of Public Interest Examinations, Federal Housing Finance Agency (2024 - present)
+* Associate Director, Office of Fair Lending Oversight, Federal Housing Finance Agency (2018 - 2024)
+* Senior Counsel, Office of Regulation, Consumer Financial Protection Bureau (2013 - 2018)
+* Trial Attorney, Office of General Counsel, U.S. Department of Housing and Urban Development (2008 - 2013)
+* Fair Housing Instructor, National Fair Housing Training Academy (2016 - 2017)
+* Carl Albert Executive Fellow, Oklahoma Attorney General (2007 - 2008)
+* Law Clerk, Norman, Wohlgemuth, Chandler, and Dowdell (2006)
 
 ### Education
 
-* University of Oklahoma College of Law, Juris Doctor (J.D.), _with honors_
+* University of Oklahoma College of Law, Juris Doctor (J.D.), _with honors_ (2008)
   * American Indian Law Review, Note Editor
-  * National Appellate Advocacy Moot Court Team
-  * Oklahoma Attorney General, Carl Albert Executive Fellowship
-* University of Tulsa, Bachelor of Arts (B.A.) in History, _with high honors_
+  * National Appellate Advocacy Team
+* University of Tulsa, Bachelor of Arts (B.A.) in History, _with high honors_ (2005)
+
+### Bar Memberships
+
+* Oklahoma
+* District of Columbia
 
 ### Professional Certifications
 
-Mortgage Bankers Association, Certified Mortgage Compliance Professional (level 1)
+* Certified Mortgage Compliance Professional (CMCP), Mortgage Bankers Association
 
 ### Awards and Honors
 
