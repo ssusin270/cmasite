@@ -68,7 +68,7 @@ This matter involved a HUD charge of discrimination that alleged familial status
 This matter involved a HUD charge of discrimination that alleged retaliation against an Alabama property manager. The case elected to DOJ and resulted in a settlement.
 
 #### HUD v. Morgan
-This matter involved a HUD charge of discrimination that alleged familial status discrimination against a Wyoming landlord. The case was tried before a HUD administrative law judge and was appealed to the Secretary of HUD, resulting in a final order.
+This matter involved a HUD charge of discrimination that alleged familial status discrimination against a Wyoming landlord. The case was tried before a HUD administrative law judge and was appealed to the Secretary of HUD, resulting in a [final order](https://www.hud.gov/sites/documents/hud_11-f-090-fh-49.pdf). The final order awarded $19,750 in tangible and intangible damages to the complainants.
 
 #### HUD v. Texan RV Park
 This matter involved a HUD charge of discrimination that alleged sex discrimination against a Texas RV park owner. The case elected to DOJ and resulted in a settlement.
