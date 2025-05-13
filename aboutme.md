@@ -63,7 +63,7 @@ Secretary's Award for Excellence, U.S. Department of Housing and Urban Developme
 ### Cases
 
 #### HUD v. Texan RV Park
-This matter involved a HUD charge of discrimination that alleged sex discrimination against a Texas RV park owner. The case elected to DOJ and resulted in a [settlement](https://www.justice.gov/d9/crt/legacy/2014/07/21/toonesettle.pdf). The settlement included monetary and other relief for complainants and relief in the public interest.  The case was the first charge of discrimination by HUD alleging sex discrimination on behalf of a transgender woman.
+This matter involved a HUD charge of discrimination that alleged sex discrimination against a Texas RV park owner. The case elected to DOJ and resulted in a [settlement](https://www.justice.gov/d9/crt/legacy/2014/07/21/toonesettle.pdf). The settlement included monetary and other relief for complainants and relief in the public interest.  The case was the first charge of discrimination by HUD alleging sex discrimination on behalf of a transgender woman.  
 _Press:_ [KLTV](https://www.kltv.com/story/23652016/federal-government-sues-etx-rv-park-for-discriminatory-housing-practices/), [Houston Chronicle](https://www.chron.com/news/houston-texas/houston/article/u-s-government-sues-texas-rv-park-for-alleged-4879379.php), [Texas Observer](https://www.texasobserver.org/east-texas-couples-eviction-prompts-landmark-transgender-rights-case/) 
 
 #### HUD v. Townhomes of Kings Lake HOA
