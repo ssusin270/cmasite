@@ -78,5 +78,11 @@ This matter involved a HUD charge of discrimination that alleged sex discriminat
 
 ### Publications
 
+#### 
+
+#### [Action Plan to Advance Property Appraisal and Valuation Equity](https://archives.hud.gov/pave.hud.gov/PAVEActionPlan.pdf) (PAVE) (2022)  
+James served as FHFA's representative on the PAVE taskforce and led FHFA's efforts to address appraisal bias including changes to Fannie and Freddie appraisal policies to incorporate improvements to reconsideration of value, updates to policies to improve time adjustments and other barriers causing disparities, refer potential violations of law to HUD and to state appraisal regulators, and to to release public appraisal data.  
+
+
 
 ### Presentations
