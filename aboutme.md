@@ -117,7 +117,7 @@ James represented FHFA as a panelist on the final Appraisal Subcommittee hearing
 #### [FHFA: Equitable Housing Finance Plans Listening Session 2023](https://www.youtube.com/watch?v=fcNxVebXg4Y)
 FHFA hosted a listening session for stakeholders to provide input into the equitable housing finance plans in 2023 which included opening remarks from James.
 
-#### [Consumer Bankers Association: Appraisal Bias Panel at CBA Live 2023]
+#### Consumer Bankers Association: Appraisal Bias Panel at CBA Live 2023
 James presented on a panel covering the issue of appraisal bias at Consumer Bankers Association annual conference.
 
 #### [Philadelphia Fed: Advancing Homeownership Opportunity to Narrow Racial Disparities 2022](https://www.philadelphiafed.org/calendar-of-events/advancing-homeownership-opportunity-to-narrow-racial-disparities-part-1)
