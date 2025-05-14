@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Presentations
 subtitle: fair and affordable housing, consumer financial regulation, government-sponsored enterprises, data and privacy
 ---
 
