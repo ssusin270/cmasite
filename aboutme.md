@@ -111,27 +111,30 @@ _Press:_ [Housing Wire](https://www.housingwire.com/articles/hud-and-fhfa-partne
 ### Presentations
 
 #### [Appraisal Subcommittee: Appraisal Bias Hearing 2024](https://www.youtube.com/watch?v=Kz-rtRWp5k0)
-James represented FHFA as a panelist on the final Appraisal Subcommittee hearing on appraisal bias.
+James represented FHFA as a panelist on the final Appraisal Subcommittee hearing on appraisal bias in Washington, DC.
 
 #### FHFA: Valuation Modernization Summit 2024
-James moderated a panel featuring experts on appraisal bias.
+James moderated a panel featuring experts on appraisal bias at the conference in Washington, DC.
+
+#### HUD: Fair Housing Leadership Conference 2023
+James participated in a panel on fair housing investigations related to mortgage lending at the conference in Denver, CO.
 
 #### National Fair Housing Alliance: National Conference 2023
-James participated in a panel on appraisal bias.
+James participated in a panel on appraisal bias at the national conference in Washington, DC.
 
 #### [FHFA: Equitable Housing Finance Plans Listening Session 2023](https://www.youtube.com/watch?v=fcNxVebXg4Y)
-FHFA hosted a listening session for stakeholders to provide input into the equitable housing finance plans in 2023 which included opening remarks from James.
+FHFA hosted a virtual listening session for stakeholders to provide input into the equitable housing finance plans in 2023 which included opening remarks from James.
 
 #### Consumer Bankers Association: Appraisal Bias Panel at CBA Live 2023
-James presented on a panel covering the issue of appraisal bias at Consumer Bankers Association annual conference.
+James presented on a panel covering the issue of appraisal bias at Consumer Bankers Association annual conference in Las Vegas, NV.
 
 #### [Philadelphia Fed: Advancing Homeownership Opportunity to Narrow Racial Disparities 2022](https://www.philadelphiafed.org/calendar-of-events/advancing-homeownership-opportunity-to-narrow-racial-disparities-part-1)
-The Federal Reserve Bank of Philadelphia hosted a panel discussion on Federal Programs to Advance Homeownership Opportunity to Narrow Racial Disparities which include remarks by James.
+The Federal Reserve Bank of Philadelphia hosted a virtual panel discussion on Federal Programs to Advance Homeownership Opportunity to Narrow Racial Disparities which include remarks by James.
 
 #### [Appraisal Foundation: Industry Advisory Council and The Appraisal Foundation Advisory Council Keynote Address 2022](https://www.appraisalfoundation.org/imis/TAFCore/Events/Event_Display.aspx?EventKey=062822)
-James provided a keynote address on Equitable Housing Finance Plans for Fannie Mae and Freddie Mac.
+James provided a keynote address on Equitable Housing Finance Plans for Fannie Mae and Freddie Mac at the joint meeting in Arlington, VA.
 
 #### [FHFA: Closing the Homeownership Gap Listening Session 2021](https://web.archive.org/web/20241231023312/https://www.fhfa.gov/news/videos/fhfa-public-listening-session-closing-the-gap-to-sustainable-homeownership)
-FHFA hosted a listening session for stakeholders to provide input on strategies to reduce the racial homeownership gap which included introductory remarks and moderation from James.
+FHFA hosted a virtual listening session for stakeholders to provide input on strategies to reduce the racial homeownership gap which included introductory remarks and moderation from James.
 
 
