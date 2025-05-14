@@ -7,7 +7,7 @@ subtitle: fair and affordable housing, consumer financial regulation, government
 ### Professional Experience
 
 #### Federal Housing Finance Agency (FHFA)
-Deputy Director, Division of Public Interest Examinations (2024 - present)  
+Deputy Director, Division of Public Interest Examinations (2024 - present)    
 Associate Director, Office of Fair Lending Oversight (2018 - 2024)
 
 #### Consumer Financial Protection Bureau (CFPB)
@@ -39,7 +39,7 @@ Juris Doctor (J.D.), with honors (2008)
 
 ### Bar Memberships
 
-Oklahoma    
+Oklahoma      
 District of Columbia
 
 ### Professional Certifications
@@ -48,8 +48,8 @@ Certified Mortgage Compliance Professional (CMCP), Mortgage Bankers Association
 
 ### Awards and Honors
 
-Director's Achievement Award, Federal Housing Finance Agency (2022)    
-Excellence in Management Award, Federal Housing Finance Agency (2020)    
+Director's Achievement Award, Federal Housing Finance Agency (2022)      
+Excellence in Management Award, Federal Housing Finance Agency (2020)      
 Secretary's Award for Excellence, U.S. Department of Housing and Urban Development (2013)
   
 ### Cases
