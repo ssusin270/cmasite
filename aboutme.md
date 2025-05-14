@@ -94,7 +94,8 @@ _Parts of this rule were suspended by FHFA Director Bill Pulte in 2025._
 
 #### [FHFA Advisory Bulletin 2023-05: Enterprise Fair Lending and Fair Housing Rating System](https://web.archive.org/web/20250310220422/https://www.fhfa.gov/advisory-bulletin/ab-2023-05)
 James oversaw the establishment of a supervisory rating system for FHFA to rate fair lending and fair housing compliance management by Fannie Mae and Freddie Mac. The system is the first federal fair lending-focused financial regulator rating system.  
-_Press:_ [Inside Mortgage Finance](https://www.insidemortgagefinance.com/articles/229024-fhfa-to-rate-gses-fair-lending-activities?v=preview) _This guidance was rescinded by FHFA Director Bill Pulte in 2025._
+_Press:_ [Inside Mortgage Finance](https://www.insidemortgagefinance.com/articles/229024-fhfa-to-rate-gses-fair-lending-activities?v=preview)  
+_This guidance was rescinded by FHFA Director Bill Pulte in 2025._
 
 #### [Action Plan to Advance Property Appraisal and Valuation Equity](https://archives.hud.gov/pave.hud.gov/PAVEActionPlan.pdf)
 James served as FHFA's representative on the PAVE taskforce and led FHFA's efforts to address appraisal bias including changes to Fannie and Freddie appraisal policies to incorporate improvements to reconsideration of value, updates to policies to improve time adjustments and other barriers causing disparities, refer potential violations of law to HUD and to state appraisal regulators, and to to release public appraisal data.    
@@ -125,7 +126,7 @@ James participated in a panel on appraisal bias at the national conference in Wa
 #### [FHFA: Equitable Housing Finance Plans Listening Session 2023](https://www.youtube.com/watch?v=fcNxVebXg4Y)
 FHFA hosted a virtual listening session for stakeholders to provide input into the equitable housing finance plans in 2023 which included opening remarks from James.
 
-#### Consumer Bankers Association: Appraisal Bias Panel at CBA Live 2023
+#### Consumer Bankers Association: CBA Live 2023
 James presented on a panel covering the issue of appraisal bias at Consumer Bankers Association annual conference in Las Vegas, NV.
 
 #### [Philadelphia Fed: Advancing Homeownership Opportunity to Narrow Racial Disparities 2022](https://www.philadelphiafed.org/calendar-of-events/advancing-homeownership-opportunity-to-narrow-racial-disparities-part-1)
