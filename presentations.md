@@ -25,7 +25,7 @@ James presented on a panel covering the issue of appraisal bias at Consumer Bank
 ### [Philadelphia Fed: Advancing Homeownership Opportunity to Narrow Racial Disparities 2022](https://www.philadelphiafed.org/calendar-of-events/advancing-homeownership-opportunity-to-narrow-racial-disparities-part-1)
 The Federal Reserve Bank of Philadelphia hosted a virtual panel discussion on Federal Programs to Advance Homeownership Opportunity to Narrow Racial Disparities which include remarks by James.
 
-### [Appraisal Foundation: Industry Advisory Council and The Appraisal Foundation Advisory Council Keynote Address 2022](https://www.appraisalfoundation.org/imis/TAFCore/Events/Event_Display.aspx?EventKey=062822)
+### [Appraisal Foundation: Advisory Councils Joint Meeting Keynote Address 2022](https://www.appraisalfoundation.org/imis/TAFCore/Events/Event_Display.aspx?EventKey=062822)
 James provided a keynote address on Equitable Housing Finance Plans for Fannie Mae and Freddie Mac at the joint meeting in Arlington, VA.
 
 ### [FHFA: Closing the Homeownership Gap Listening Session 2021](https://web.archive.org/web/20241231023312/https://www.fhfa.gov/news/videos/fhfa-public-listening-session-closing-the-gap-to-sustainable-homeownership)
