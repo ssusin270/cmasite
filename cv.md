@@ -29,14 +29,15 @@ Law Clerk (2006)
 ### Education
 
 #### University of Oklahoma College of Law
-Juris Doctor (J.D.), with honors (2008)  
+Juris Doctor (J.D.), _cum laude_ (2008)  
   * Order of the Barristers
-  * American Indian Law Review, Note Editor
+  * _American Indian Law Review_, Note Editor
   * National Appellate Advocacy Team
 
 #### University of Tulsa
- Bachelor of Arts (B.A.) in History, with high honors (2005)
+ Bachelor of Arts (B.A.) in History, _magna cum laude_ (2005)
   * National Merit Scholar
+  * Honors College
 
 ### Bar Memberships
 
