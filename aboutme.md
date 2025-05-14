@@ -114,6 +114,9 @@ _Press:_ [Housing Wire](https://www.housingwire.com/articles/hud-and-fhfa-partne
 #### [Appraisal Subcommittee: Appraisal Bias Hearing 2024](https://www.youtube.com/watch?v=Kz-rtRWp5k0)
 James represented FHFA as a panelist on the final Appraisal Subcommittee hearing on appraisal bias.
 
+#### FHFA: Appraisal Modernization Summitt 2024
+James moderated a panel featuring experts on appraisal bias.
+
 #### [FHFA: Equitable Housing Finance Plans Listening Session 2023](https://www.youtube.com/watch?v=fcNxVebXg4Y)
 FHFA hosted a listening session for stakeholders to provide input into the equitable housing finance plans in 2023 which included opening remarks from James.
 
