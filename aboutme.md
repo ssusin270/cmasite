@@ -64,7 +64,7 @@ Secretary's Award for Excellence, U.S. Department of Housing and Urban Developme
 
 #### HUD v. Texan RV Park
 This matter involved a HUD charge of discrimination that alleged sex discrimination against a Texas RV park owner. The case elected to DOJ and resulted in a [settlement](https://www.justice.gov/d9/crt/legacy/2014/07/21/toonesettle.pdf). The settlement included monetary and other relief for complainants and relief in the public interest.  The case was the first charge of discrimination by HUD alleging sex discrimination on behalf of a transgender woman.  
-_Press:_ [KLTV](https://www.kltv.com/story/23652016/federal-government-sues-etx-rv-park-for-discriminatory-housing-practices/), [Houston Chronicle](https://www.chron.com/news/houston-texas/houston/article/u-s-government-sues-texas-rv-park-for-alleged-4879379.php), [Texas Observer](https://www.texasobserver.org/east-texas-couples-eviction-prompts-landmark-transgender-rights-case/) 
+_Press:_ [KLTV](https://www.kltv.com/story/23652016/federal-government-sues-etx-rv-park-for-discriminatory-housing-practices/), [Houston Chronicle](https://www.chron.com/news/houston-texas/houston/article/u-s-government-sues-texas-rv-park-for-alleged-4879379.php), [Texas Observer](https://www.texasobserver.org/east-texas-couples-eviction-prompts-landmark-transgender-rights-case/), [Huffington Post](https://www.huffpost.com/entry/texas-rv-park-owner-anti-transgender_n_3865925) 
 
 #### HUD v. Townhomes of Kings Lake HOA
 This matter involved a HUD charge of discrimination that alleged familial status discrimination against a Florida homeowners' association. The case elected to the Department of Justice (DOJ) and resulted in a complaint and [consent decree](https://www.justice.gov/sites/default/files/crt/legacy/2013/08/15/kings_lakesettle.pdf). The consent decree resulted in $45,000 in relief for complainants, an $85,000 victims' fund, a $5,000 civil money penalty, and other relief in the public interest.  
@@ -111,8 +111,22 @@ _Press:_ [Housing Wire](https://www.housingwire.com/articles/hud-and-fhfa-partne
 
 ### Presentations
 
+#### [Appraisal Subcommittee: Appraisal Bias Hearing 2024](https://www.youtube.com/watch?v=Kz-rtRWp5k0)
+James represented FHFA as a panelist on the final Appraisal Subcommittee hearing on appraisal bias.
+
 #### [FHFA: Equitable Housing Finance Plans Listening Session 2023](https://www.youtube.com/watch?v=fcNxVebXg4Y)
 FHFA hosted a listening session for stakeholders to provide input into the equitable housing finance plans in 2023 which included opening remarks from James.
 
+#### [Consumer Bankers Association: Appraisal Bias Panel at CBA Live 2023]
+James presented on a panel covering the issue of appraisal bias at Consumer Bankers Association annual conference.
+
+#### [Philadelphia Fed: Advancing Homeownership Opportunity to Narrow Racial Disparities 2022](https://www.philadelphiafed.org/calendar-of-events/advancing-homeownership-opportunity-to-narrow-racial-disparities-part-1)
+The Federal Reserve Bank of Philadelphia hosted a panel discussion on Federal Programs to Advance Homeownership Opportunity to Narrow Racial Disparities which include remarks by James.
+
+#### [Appraisal Foundation: Industry Advisory Council and The Appraisal Foundation Advisory Council Keynote Address 2022](https://www.appraisalfoundation.org/imis/TAFCore/Events/Event_Display.aspx?EventKey=062822)
+James provided a keynote address on Equitable Housing Finance Plans for Fannie Mae and Freddie Mac.
+
 #### [FHFA: Closing the Homeownership Gap Listening Session 2021](https://web.archive.org/web/20241231023312/https://www.fhfa.gov/news/videos/fhfa-public-listening-session-closing-the-gap-to-sustainable-homeownership)
 FHFA hosted a listening session for stakeholders to provide input on strategies to reduce the racial homeownership gap which included introductory remarks and moderation from James.
+
+
