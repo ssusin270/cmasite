@@ -41,9 +41,9 @@ Juris Doctor (J.D.), _cum laude_ (2008)
 
 ### Bar Memberships
 
-Oklahoma      
+Oklahoma (2008)      
 
-District of Columbia
+District of Columbia (2016)
 
 ### Professional Certifications
 
