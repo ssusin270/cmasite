@@ -69,5 +69,18 @@ _Press:_ [Housing Wire](https://www.housingwire.com/articles/hud-and-fhfa-partne
 
 ## Consumer Financial Protection Bureau
 ---
-### [Uniform Residential Loan Application Safe Harbor](https://www.federalregister.gov/documents/2017/11/24/2017-25434/final-redesigned-uniform-residential-loan-application-status-under-regulation-b)
-James led the effort to review the new Uniform Residential Loan Application to ensure it met safe harbor status under Regulation B, and drafted the safe harbor document.
+### [Uniform Residential Loan Application and Language Access Data Safe Harbor](https://www.federalregister.gov/documents/2017/11/24/2017-25434/final-redesigned-uniform-residential-loan-application-status-under-regulation-b)
+James led the effort to review the new Uniform Residential Loan Application to ensure it met safe harbor status under Regulation B, and drafted the safe harbor document. The safe harbor also permitted creditors to collect language access data to better serve consumers with limited English proficiency. Regulation B was also [amended](https://www.federalregister.gov/documents/2017/10/02/2017-20417/equal-credit-opportunity-act-regulation-b-ethnicity-and-race-information-collection) to facilitate an orderly transition to the new HMDA reporting requirements and the new URLA. An earlier version of the safe harbor was also [issued](https://www.federalregister.gov/documents/2016/03/03/2016-04643/application-process-for-designation-of-rural-area-under-federal-consumer-financial-law-procedural).
+
+### [Application Process for Designation of Rural Area under Federal Consumer Financial Law](https://www.federalregister.gov/documents/2016/03/03/2016-04643/application-process-for-designation-of-rural-area-under-federal-consumer-financial-law-procedural)
+James supported the effort to implement the HELP Rural Communities Act process for creditors to apply for a rural area designation which allowed certain regulatory relief and exemptions from consumer financial regulations.
+
+### [Home Mortgage Disclosure (Regulation C)](https://www.federalregister.gov/documents/2015/10/28/2015-26607/home-mortgage-disclosure-regulation-c)
+James contributed significantly to implementing the Dodd-Frank Act amendements to the Home Mortgage Disclosure Act including adding several new data elements related to loan characteristics, multifamily housing, and manufactured housing.
+
+## U.S. Department of Housing and Urban Development
+--
+### [Implementation of the Fair Housing Act's Discriminatory Effects Standard](https://www.federalregister.gov/documents/2013/02/15/2013-03375/implementation-of-the-fair-housing-acts-discriminatory-effects-standard)
+James contributed to the rulemaking codifying the Fair Housing Act's discriminatory effects standard in regulation. The rulemaking was acknowledged and the doctrine of disparate impact under the Fair Housing Act was upheld by the Supreme Court in [_Texas Department of Housing and Community Affairs v. Inclusive Communities Project_](https://www.oyez.org/cases/2014/13-1371).
+
+
