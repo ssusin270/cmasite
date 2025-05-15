@@ -79,8 +79,13 @@ James supported the effort to implement the HELP Rural Communities Act process f
 James contributed significantly to implementing the Dodd-Frank Act amendements to the Home Mortgage Disclosure Act including adding several new data elements related to loan characteristics, multifamily housing, and manufactured housing.
 
 ## U.S. Department of Housing and Urban Development
---
+---
 ### [Implementation of the Fair Housing Act's Discriminatory Effects Standard](https://www.federalregister.gov/documents/2013/02/15/2013-03375/implementation-of-the-fair-housing-acts-discriminatory-effects-standard)
 James contributed to the rulemaking codifying the Fair Housing Act's discriminatory effects standard in regulation. The rulemaking was acknowledged and the doctrine of disparate impact under the Fair Housing Act was upheld by the Supreme Court in [_Texas Department of Housing and Community Affairs v. Inclusive Communities Project_](https://www.oyez.org/cases/2014/13-1371).
+
+_Press:_ [Washington Post](https://www.washingtonpost.com/news/wonk/wp/2015/06/25/supreme-court-upholds-a-key-tool-fighting-discrimination-in-the-housing-market/)
+
+### [Affirmatively Furthering Fair Housing](https://www.federalregister.gov/documents/2013/07/19/2013-16751/affirmatively-furthering-fair-housing)
+James contributed to the proposed rule related to implementing Section 808(e)(5) of the Fair Housing Act, which requires HUD to administer the programs and activities relating to housing and urban development in a manner affirmatively to further the Fair Housing Act.
 
 
