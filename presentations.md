@@ -34,5 +34,5 @@ James participated in a recorded panel discussion on increasing fair access to c
 ### [FHFA: Closing the Homeownership Gap Listening Session 2021](https://web.archive.org/web/20241231023312/https://www.fhfa.gov/news/videos/fhfa-public-listening-session-closing-the-gap-to-sustainable-homeownership)
 FHFA hosted a virtual listening session for stakeholders to provide input on strategies to reduce the racial homeownership gap which included introductory remarks and moderation from James.
 
-### [Federal Reserve: Fair Lending Interagency Webinar](https://www.consumercomplianceoutlook.org/outlook-live/2020/2020-fair-lending-interagency-webinar/)
+### [Federal Reserve: Fair Lending Interagency Webinar 2020](https://www.consumercomplianceoutlook.org/outlook-live/2020/2020-fair-lending-interagency-webinar/)
 James participated in the Federal Reserve's annual interagency fair lending webinar, presenting on FHFA's fair lending requirements for credit score models.
