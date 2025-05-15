@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reducing Valuation Bias by Addressing Appraiser and Property Valuation Commentary
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: Examples from FHFA Review
 tags: [fair lending, fair housing, appraisals, overt discrimination]
 author: Chandra Broadnax and James Wylie
 ---
