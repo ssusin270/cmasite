@@ -30,6 +30,14 @@ _Press:_ [Inside Mortgage Finance](https://www.insidemortgagefinance.com/article
 
 _This guidance was rescinded by FHFA Director Bill Pulte in 2025._
 
+### [FHFA Fair Lending Oversight Data System](https://www.federalregister.gov/documents/2022/05/20/2022-10798/privacy-act-of-1974-system-of-records)
+James established the privacy and governance safeguards to establish a unified supervisory fair lending data oversight system, compliant with the Privacy Act of 1974, at FHFA.
+
+### [Federal Fair Lending Officials' Comment Letter to Appraisal Foundation](https://files.consumerfinance.gov/f/documents/cfpb_appraisal-discrimination_federal-interagency_comment_letter_2022-02.pdf)
+James worked with the other fair lending senior officials at federal financial and housing regulators to take the rare step of commenting publicly on the revisions to the Uniform Standards of Appraisal Practice concerning issues of consistency with federal antidiscrimiantion law.
+
+_Press:_ [Consumer Finance Monitor](https://www.consumerfinancemonitor.com/2023/03/03/cfpb-and-other-federal-agencies-express-concerns-to-the-appraisal-foundation-regarding-draft-changes-to-the-uniform-standards-of-appraisal-practice/)
+
 ### [Action Plan to Advance Property Appraisal and Valuation Equity](https://archives.hud.gov/pave.hud.gov/PAVEActionPlan.pdf)
 James served as FHFA's representative on the PAVE taskforce and led FHFA's efforts to address appraisal bias including changes to Fannie and Freddie appraisal policies to incorporate improvements to reconsideration of value, updates to policies to improve time adjustments and other barriers causing disparities, refer potential violations of law to HUD and to state appraisal regulators, and to to release public appraisal data.   
 
@@ -51,3 +59,6 @@ _This guidance was rescinded by FHFA Director Bill Pulte in 2025._
 James drafted and negotiated the first memorandum of understanding between FHFA and HUD regarding fair lending and fair housing coordination. This MOU led to greater coordination of fair lending efforts in the federal government with respect to the mortgage market and housing programs.  
 
 _Press:_ [Housing Wire](https://www.housingwire.com/articles/hud-and-fhfa-partner-to-advance-fair-lending-housing-enforcement/), [Vital Law](https://www.vitallaw.com/news/top-story-hud-fhfa-announce-partnership-to-improve-fair-housing-and-fair-lending-practices/blw01cd15535e7df2100097bf000d3a8abb4e02?refURL=https%3A%2F%2Fwww.google.com%2F#.), [Inside Mortgage Finance](https://www.insidemortgagefinance.com/articles/222249-fhfa-agrees-to-collaborate-with-hud-on-fair-housing-enforcement?v=preview), [National Mortgage Professional](https://nationalmortgageprofessional.com/news/hud-fhfa-collaborate-fair-housing-fair-lending-enforcement)
+
+### [Uniform Residential Loan Application Safe Harbor](https://www.federalregister.gov/documents/2017/11/24/2017-25434/final-redesigned-uniform-residential-loan-application-status-under-regulation-b)
+James led the effort to review the new Uniform Residential Loan Application to ensure it met safe harbor status under Regulation B, and drafted the safe harbor document.
