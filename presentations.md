@@ -39,3 +39,6 @@ FHFA hosted a virtual listening session for stakeholders to provide input on str
 
 ### [Federal Reserve System: Fair Lending Interagency Webinar 2020](https://www.consumercomplianceoutlook.org/outlook-live/2020/2020-fair-lending-interagency-webinar/)
 James participated in the Federal Reserve's annual interagency fair lending webinar, presenting on FHFA's fair lending requirements for credit score models.
+
+### Wolters Kluwer: Fair Lending Colloqium 2016
+James presented in Las Vegas, NV, on compliance with the new HMDA rule implementing the Dodd-Frank Act changes.
