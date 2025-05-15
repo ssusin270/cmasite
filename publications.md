@@ -35,6 +35,11 @@ _This guidance was rescinded by FHFA Director Bill Pulte in 2025._
 ### [FHFA Fair Lending Oversight Data System](https://www.federalregister.gov/documents/2022/05/20/2022-10798/privacy-act-of-1974-system-of-records)
 James established the privacy and governance safeguards to establish a unified supervisory fair lending data oversight system, compliant with the Privacy Act of 1974, at FHFA.
 
+### [FHFA Directive for Mortgage Servicers to Maintain Fair Lending Data Elements](https://guide.freddiemac.com/app/guide/bulletin/2022-17?utm_source=eloqua&utm_medium=email&utm_campaign=2022-08-10_POLICY_Guide-Policy&utm_loc=text)
+James oversaw the implementation of the FHFA policy to ensure that a borrower's preferred language information collected on the Uniform Residential Loan Application (URLA) transfers through the loan lifecycle to mortgage servicers. The policy also ensures that basic fair lending data elements also transfer through servicing and requires servicers to maintain these data to ensure compliance with fair lending laws in their programs.
+
+_Press:_ [Consumer Finance Monitor](https://www.consumerfinancemonitor.com/2022/08/11/fhfa-announces-mortgage-servicer-requirements-for-maintaining-fair-lending-data/), [Housing Wire](https://www.housingwire.com/articles/fhfa-gse-servicers-must-keep-fair-lending-data/), [ABA Banking Journal](https://bankingjournal.aba.com/2022/08/fhfa-adds-to-scope-of-servicers-fair-lending-data-collection/), 
+
 ### [Federal Fair Lending Officials' Comment Letter to Appraisal Foundation](https://files.consumerfinance.gov/f/documents/cfpb_appraisal-discrimination_federal-interagency_comment_letter_2022-02.pdf)
 James worked with the other fair lending senior officials at federal financial and housing regulators to take the rare step of commenting publicly on the revisions to the Uniform Standards of Appraisal Practice concerning issues of consistency with federal antidiscrimiantion law.
 
