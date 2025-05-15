@@ -4,7 +4,7 @@ title: Policies
 subtitle: fair and affordable housing, consumer financial regulation, government-sponsored enterprises, data and privacy
 ---
 
-#### Federal Housing Finance Agency
+## Federal Housing Finance Agency
 
 ### [FHFA Advisory Bulletin 2024-07: FHLBank Fair Lending and Fair Housing Compliance](https://web.archive.org/web/20250310220420/https://www.fhfa.gov/advisory-bulletin/ab-2024-07)
 James oversaw the establishment of regulatory guidance on compliance by the Federal Home Loan Banks (FHLBank) with fair lending and fair hosuing laws. This guidance addressed potential fair lending and fair housing issues in FHLBank policies and procedures, mortgage purchase programs, advances, and affordable housing and community development grant programs. 
@@ -62,7 +62,7 @@ James drafted and negotiated the first memorandum of understanding between FHFA 
 
 _Press:_ [Housing Wire](https://www.housingwire.com/articles/hud-and-fhfa-partner-to-advance-fair-lending-housing-enforcement/), [Vital Law](https://www.vitallaw.com/news/top-story-hud-fhfa-announce-partnership-to-improve-fair-housing-and-fair-lending-practices/blw01cd15535e7df2100097bf000d3a8abb4e02?refURL=https%3A%2F%2Fwww.google.com%2F#.), [Inside Mortgage Finance](https://www.insidemortgagefinance.com/articles/222249-fhfa-agrees-to-collaborate-with-hud-on-fair-housing-enforcement?v=preview), [National Mortgage Professional](https://nationalmortgageprofessional.com/news/hud-fhfa-collaborate-fair-housing-fair-lending-enforcement)
 
-#### Consumer Financial Protection Bureau
+## Consumer Financial Protection Bureau
 
 ### [Uniform Residential Loan Application Safe Harbor](https://www.federalregister.gov/documents/2017/11/24/2017-25434/final-redesigned-uniform-residential-loan-application-status-under-regulation-b)
 James led the effort to review the new Uniform Residential Loan Application to ensure it met safe harbor status under Regulation B, and drafted the safe harbor document.
