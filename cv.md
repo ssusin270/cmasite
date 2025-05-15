@@ -5,7 +5,7 @@ subtitle: fair and affordable housing, consumer financial regulation, government
 ---
 
 ## Professional Experience
-
+---
 ### Federal Housing Finance Agency (FHFA)
 Deputy Director, Division of Public Interest Examinations (2024 - present)    
 
@@ -27,7 +27,7 @@ Carl Albert Executive Fellow, Criminal Appeals Section (2007 - 2008)
 Law Clerk (2006)
 
 ## Education
-
+---
 ### University of Oklahoma College of Law
 Juris Doctor (J.D.), _cum laude_ (2008)  
   * Order of the Barristers
@@ -40,17 +40,17 @@ Juris Doctor (J.D.), _cum laude_ (2008)
   * Honors College
 
 ## Bar Memberships
-
+---
 Oklahoma (2008)      
 
 District of Columbia (2016)
 
 ## Professional Certifications
-
+---
 Certified Mortgage Compliance Professional (CMCP), Mortgage Bankers Association
 
 ## Awards and Honors
-
+---
 Director's Achievement Award, Federal Housing Finance Agency (2022)      
 
 Excellence in Management Award, Federal Housing Finance Agency (2020)     
