@@ -38,15 +38,15 @@ James established the privacy and governance safeguards to establish a unified s
 ### [FHFA Directive for Mortgage Servicers to Maintain Fair Lending Data Elements](https://guide.freddiemac.com/app/guide/bulletin/2022-17?utm_source=eloqua&utm_medium=email&utm_campaign=2022-08-10_POLICY_Guide-Policy&utm_loc=text)
 James oversaw the implementation of the FHFA policy to ensure that a borrower's preferred language information collected on the Uniform Residential Loan Application (URLA) transfers through the loan lifecycle to mortgage servicers. The policy also ensures that basic fair lending data elements also transfer through servicing and requires servicers to maintain these data to ensure compliance with fair lending laws in their programs.
 
-_Press:_ [Consumer Finance Monitor](https://www.consumerfinancemonitor.com/2022/08/11/fhfa-announces-mortgage-servicer-requirements-for-maintaining-fair-lending-data/), [Housing Wire](https://www.housingwire.com/articles/fhfa-gse-servicers-must-keep-fair-lending-data/), [ABA Banking Journal](https://bankingjournal.aba.com/2022/08/fhfa-adds-to-scope-of-servicers-fair-lending-data-collection/), 
+_Press:_ [Consumer Finance Monitor](https://www.consumerfinancemonitor.com/2022/08/11/fhfa-announces-mortgage-servicer-requirements-for-maintaining-fair-lending-data/), [Housing Wire](https://www.housingwire.com/articles/fhfa-gse-servicers-must-keep-fair-lending-data/), [ABA Banking Journal](https://bankingjournal.aba.com/2022/08/fhfa-adds-to-scope-of-servicers-fair-lending-data-collection/) 
 
 ### [Federal Fair Lending Officials' Comment Letter to Appraisal Foundation](https://files.consumerfinance.gov/f/documents/cfpb_appraisal-discrimination_federal-interagency_comment_letter_2022-02.pdf)
-James worked with the other fair lending senior officials at federal financial and housing regulators to take the rare step of commenting publicly on the revisions to the Uniform Standards of Appraisal Practice concerning issues of consistency with federal antidiscrimiantion law.
+James worked with the other fair lending senior officials at federal financial and housing regulators to take the rare step of commenting publicly on the revisions to the Uniform Standards of Appraisal Practice concerning issues of consistency with federal antidiscrimination law.
 
 _Press:_ [Consumer Finance Monitor](https://www.consumerfinancemonitor.com/2023/03/03/cfpb-and-other-federal-agencies-express-concerns-to-the-appraisal-foundation-regarding-draft-changes-to-the-uniform-standards-of-appraisal-practice/)
 
 ### [Action Plan to Advance Property Appraisal and Valuation Equity](https://archives.hud.gov/pave.hud.gov/PAVEActionPlan.pdf)
-James served as FHFA's representative on the PAVE taskforce and led FHFA's efforts to address appraisal bias including changes to Fannie and Freddie appraisal policies to incorporate improvements to reconsideration of value, updates to policies to improve time adjustments and other barriers causing disparities, refer potential violations of law to HUD and to state appraisal regulators, and to to release public appraisal data.   
+James served as FHFA's representative on the PAVE taskforce and led FHFA's efforts to address appraisal bias including changes to Fannie and Freddie appraisal policies to incorporate improvements to reconsideration of value, updates to policies to improve time adjustments and other barriers causing disparities, refer potential violations of law to HUD and to state appraisal regulators, and to release public appraisal data.   
 
 _Press:_ [New York Times](https://www.nytimes.com/2023/06/01/realestate/kamala-harris-home-appraisals-discrimination.html)
 
