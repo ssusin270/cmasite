@@ -33,7 +33,7 @@ _Press:_ [Inside Mortgage Finance](https://www.insidemortgagefinance.com/article
 _This guidance was rescinded by FHFA Director Bill Pulte in 2025._
 
 ### [FHFA Fair Lending Oversight Data System](https://www.federalregister.gov/documents/2022/05/20/2022-10798/privacy-act-of-1974-system-of-records)
-James established the privacy and governance safeguards to establish a unified supervisory fair lending data oversight system, compliant with the Privacy Act of 1974, at FHFA.
+James established the privacy and governance safeguards for a unified supervisory fair lending data oversight system at FHFA, compliant with the Privacy Act of 1974.
 
 ### [FHFA Directive for Mortgage Servicers to Maintain Fair Lending Data Elements](https://guide.freddiemac.com/app/guide/bulletin/2022-17?utm_source=eloqua&utm_medium=email&utm_campaign=2022-08-10_POLICY_Guide-Policy&utm_loc=text)
 James oversaw the implementation of the FHFA policy to ensure that a borrower's preferred language information collected on the Uniform Residential Loan Application (URLA) transfers through the loan lifecycle to mortgage servicers. The policy also ensures that basic fair lending data elements also transfer through servicing and requires servicers to maintain these data to ensure compliance with fair lending laws in their programs.
