@@ -7,7 +7,7 @@ subtitle: fair and affordable housing, consumer financial regulation, government
 ### [Appraisal Subcommittee: Appraisal Bias Hearing 2024](https://www.youtube.com/watch?v=Kz-rtRWp5k0)
 James represented FHFA as a panelist on the final Appraisal Subcommittee hearing on appraisal bias in Washington, DC.
 
-### [Asurity: Fair Lending Forum](https://www.fairlendingforum.com/fair-lending-forum-2024/speakers/)
+### [Asurity: Fair Lending Forum 2024](https://www.fairlendingforum.com/fair-lending-forum-2024/speakers/)
 James presented as part of a panel on fair servicing, discussing improving language access in mortgage servicing and how fair lending data can be used by servicers to ensure fairness.
 
 ### National Fair Housing Training Academy: The Many Forms of Mortgage Discrimination 2024
