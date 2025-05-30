@@ -39,6 +39,9 @@ The Federal Reserve Bank of Philadelphia hosted a virtual panel discussion on Fe
 ### [Appraisal Foundation: Advisory Councils Joint Meeting Keynote Address 2022](https://www.appraisalfoundation.org/imis/TAFCore/Events/Event_Display.aspx?EventKey=062822)
 James provided a keynote address on Equitable Housing Finance Plans for Fannie Mae and Freddie Mac at the joint meeting in Arlington, VA.
 
+### [National Association of Realtors and Urban Institute Policy Forum 2022](https://web.archive.org/web/20240416141923/https://www.nar.realtor/newsroom/nar-urban-institute-policy-forum-calls-for-more-inclusive-access-to-homeownership)
+James provided a keynote interview representing FHFA where he discussed housing supply, fair housing, and rental payment reporting in underwriting.
+
 ### [National Housing Conference: Fair Housing Forum, Increasing Fair Access to Credit](https://www.youtube.com/watch?v=ehi7__N0CZs)
 James participated in a recorded panel discussion on increasing fair access to credit.
 
