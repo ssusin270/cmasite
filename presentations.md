@@ -51,7 +51,7 @@ FHFA hosted a virtual listening session for stakeholders to provide input on str
 ### [Federal Reserve System: Fair Lending Interagency Webinar 2020](https://www.consumercomplianceoutlook.org/outlook-live/2020/2020-fair-lending-interagency-webinar/)
 James participated in the Federal Reserve's annual interagency fair lending webinar, presenting on FHFA's fair lending requirements for credit score models.
 
-### [CFPB Community Bank Advisory Council: September Meeting](https://files.consumerfinance.gov/f/documents/cfpb_cbac_meeting-minutes_092017.pdf)
+### [CFPB Community Bank Advisory Council: September 2017 Meeting](https://files.consumerfinance.gov/f/documents/cfpb_cbac_meeting-minutes_092017.pdf)
 James presented on on recent policy updates related to HMDA and led a discussion with members about the implementation process.
 
 ### Wolters Kluwer: Fair Lending Colloqium 2016
