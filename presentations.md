@@ -19,6 +19,9 @@ James moderated a panel featuring experts on appraisal bias at the conference in
 ### HUD: Fair Housing Leadership Conference 2023
 James participated in a panel on fair housing investigations related to mortgage lending at the conference in Denver, CO.
 
+### [NCUA: Expanding Homeownership Opportunities by Combatting Appraisal Bias 2023](https://ncua.gov/news/events/2023/ncua-host-webinar-combatting-appraisal-bias-june-21)
+James participated in a webinar hosted by the National Credit Union Administration and spoke about appraisal bias.
+
 ### National Fair Housing Alliance: National Conference 2023
 James participated in a panel on appraisal bias at the national conference in Washington, DC.
 
