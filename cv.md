@@ -52,3 +52,7 @@ Director's Achievement Award, Federal Housing Finance Agency (2022)
 Excellence in Management Award, Federal Housing Finance Agency (2020)     
 
 Secretary's Award for Excellence, U.S. Department of Housing and Urban Development (2013)
+
+## Professional Certifications
+---
+[Certified Mortgage Compliance Professional, Mortgage Bankers Association](https://www.mba.org/conferences-and-education/certificates-and-designations/certified-mortgage-compliance-professional-designation)
