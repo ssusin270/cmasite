@@ -6,8 +6,6 @@ tags: [fair lending, fair housing, appraisals, overt discrimination]
 author: Chandra Broadnax and James Wylie
 ---
 
-_This blog post was originally posted at the [FHFA Insights Blog](https://www.fhfa.gov/blog/insights/reducing-valuation-bias-by-addressing-appraiser-and-property-valuation-commentary)_
-
 ## ​​Key Takeaways
 
 * Examples of overt references to race, ethnicity, and other prohibited bases under federal fair lending laws in appraisals and other property descriptions persist, indicating the continued presence of valuation bias.
@@ -75,4 +73,5 @@ Examples of racial and ethnic references we found in appraisals include:
 
 There is likely not a single solution to neutralizing discrimination and discriminatory practices in property valuation. FHFA and other agencies are exploring many ways to combat appraisal bias, including increased transparency and awareness and more training and education. Market participants could benefit from guidance and best practices to improve commentary and provide more objective free-form text narratives. By updating industry norms on the type of neighborhood information that is appropriate to include and moving neighborhood descriptions away from the examples we shared above, we can begin to establish more equitable assessments that ensure fair and unbiased property valuation for all. 
 
-Correction: On February 22, 2022, FHFA revised this blog post to remove an example incorrectly identified as coming from an appraisal. The example came from a non-appraisal property evaluation reviewed by FHFA.
+_This blog post was originally posted at the [FHFA Insights Blog](https://www.fhfa.gov/blog/insights/reducing-valuation-bias-by-addressing-appraiser-and-property-valuation-commentary)._  
+_Correction: On February 22, 2022, FHFA revised this blog post to remove an example incorrectly identified as coming from an appraisal. The example came from a non-appraisal property evaluation reviewed by FHFA._
