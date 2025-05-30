@@ -7,6 +7,9 @@ subtitle: fair and affordable housing, consumer financial regulation, government
 ### [Appraisal Subcommittee: Appraisal Bias Hearing 2024](https://www.youtube.com/watch?v=Kz-rtRWp5k0)
 James represented FHFA as a panelist on the final Appraisal Subcommittee hearing on appraisal bias in Washington, DC.
 
+### [Asurity: Fair Lending Forum](https://www.fairlendingforum.com/fair-lending-forum-2024/speakers/)
+James presented as part of a panel on fair servicing, discussing improving language access in mortgage servicing and how fair lending data can be used by servicers to ensure fairness.
+
 ### National Fair Housing Training Academy: The Many Forms of Mortgage Discrimination 2024
 James presented as part of NFHTA's webinar focused on investigating mortgage discrimination cases.
 
@@ -39,6 +42,9 @@ FHFA hosted a virtual listening session for stakeholders to provide input on str
 
 ### [Federal Reserve System: Fair Lending Interagency Webinar 2020](https://www.consumercomplianceoutlook.org/outlook-live/2020/2020-fair-lending-interagency-webinar/)
 James participated in the Federal Reserve's annual interagency fair lending webinar, presenting on FHFA's fair lending requirements for credit score models.
+
+### [CFPB Community Bank Advisory Council: September Meeting](https://files.consumerfinance.gov/f/documents/cfpb_cbac_meeting-minutes_092017.pdf)
+James presented on on recent policy updates related to HMDA and led a discussion with members about the implementation process.
 
 ### Wolters Kluwer: Fair Lending Colloqium 2016
 James presented in Las Vegas, NV, on compliance with the new HMDA rule implementing the Dodd-Frank Act changes.
