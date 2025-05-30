@@ -72,6 +72,8 @@ _Press:_ [Housing Wire](https://www.housingwire.com/articles/hud-and-fhfa-partne
 ### [Uniform Residential Loan Application and Language Access Data Safe Harbor](https://www.federalregister.gov/documents/2017/11/24/2017-25434/final-redesigned-uniform-residential-loan-application-status-under-regulation-b)
 James led the effort to review the new Uniform Residential Loan Application to ensure it met safe harbor status under Regulation B, and drafted the safe harbor document. The safe harbor also permitted creditors to collect language access data to better serve consumers with limited English proficiency. Regulation B was also [amended](https://www.federalregister.gov/documents/2017/10/02/2017-20417/equal-credit-opportunity-act-regulation-b-ethnicity-and-race-information-collection) to facilitate an orderly transition to the new HMDA reporting requirements and the new URLA. An earlier version of the safe harbor was also [issued](https://www.federalregister.gov/documents/2016/03/03/2016-04643/application-process-for-designation-of-rural-area-under-federal-consumer-financial-law-procedural).
 
+_Press:_ [Consumer Finance Monitor](https://www.consumerfinancemonitor.com/2016/09/29/cfpb-approves-fhlmcfnma-revised-uniform-residential-loan-application-collection-of-hmda-self-identifying-ethnicity-and-race-information-in-2017/), [National Mortgage News](https://nationalmortgageprofessional.com/news/59976/gses-unveil-redesigned-urla), [Inside Mortgage Finance](https://www.insidemortgagefinance.com/articles/209538-fhfa-adds-urla-language-question-makes-several-changes?v=preview).
+
 ### [Application Process for Designation of Rural Area under Federal Consumer Financial Law](https://www.federalregister.gov/documents/2016/03/03/2016-04643/application-process-for-designation-of-rural-area-under-federal-consumer-financial-law-procedural)
 James supported the effort to implement the HELP Rural Communities Act process for creditors to apply for a rural area designation which allowed certain regulatory relief and exemptions from consumer financial regulations.
 
@@ -88,4 +90,4 @@ _Press:_ [Washington Post](https://www.washingtonpost.com/news/wonk/wp/2015/06/2
 ### [Affirmatively Furthering Fair Housing](https://www.federalregister.gov/documents/2013/07/19/2013-16751/affirmatively-furthering-fair-housing)
 James contributed to the proposed rule related to implementing Section 808(e)(5) of the Fair Housing Act, which requires HUD to administer the programs and activities relating to housing and urban development in a manner affirmatively to further the Fair Housing Act.
 
-
+_Press:_ [New York Times](https://www.nytimes.com/2015/07/09/us/hud-issuing-new-rules-to-fight-segregation.html), [Washington Post](https://www.washingtonpost.com/news/wonk/wp/2015/07/08/obama-administration-to-unveil-major-new-rules-targeting-segregation-across-u-s/).
