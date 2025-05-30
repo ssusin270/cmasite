@@ -12,7 +12,7 @@ _This blog post was originally posted at the [FHFA Insights Blog](https://www.fh
 
 * Examples of overt references to race, ethnicity, and other prohibited bases under federal fair lending laws in appraisals and other property descriptions persist, indicating the continued presence of valuation bias.
 * Ongoing failure to address appraiser consideration of prohibited factors like race, as indicated by prohibited basis commentary within the free-text form fields of appraisals, may result in valuation bias.
-​* Market participants must ensure that appraisals and other property valuations are compliant with fair lending principles, including in free-form text commentary. Appraisals are to be fair and free of bias, providing a supported value for a family’s future or current home that reflects respect and equal treatment of the community and neighborhood in which the home is located.
+* Market participants must ensure that appraisals and other property valuations are compliant with fair lending principles, including in free-form text commentary. Appraisals are to be fair and free of bias, providing a supported value for a family’s future or current home that reflects respect and equal treatment of the community and neighborhood in which the home is located.
 
 ## ​Background
 
