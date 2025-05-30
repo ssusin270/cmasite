@@ -3,6 +3,7 @@ layout: page
 title: Experience
 subtitle: fair and affordable housing, consumer financial regulation, government-sponsored enterprises, data and privacy
 ---
+[![Certified Mortgage Compliance Professional](/assets/img/CMCP.png)](https://www.mba.org/conferences-and-education/certificates-and-designations/certified-mortgage-compliance-professional-designation)  
 
 ## Professional Experience
 ---
@@ -44,10 +45,6 @@ Juris Doctor (J.D.), _cum laude_ (2008)
 Oklahoma (2008)      
 
 District of Columbia (2016)
-
-## Professional Certifications
----
-Certified Mortgage Compliance Professional (CMCP), Mortgage Bankers Association
 
 ## Awards and Honors
 ---
