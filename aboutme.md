@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: fair and affordable housing, consumer financial regulation, government-sponsored enterprises, data and privacy
+subtitle: administrative law / affordable housing / consumer finance / data governance / fair lending / fair housing / GSEs / mortgages / privacy
 ---
 
 James currently serves as the Deputy Director for the Division of Public Interest Examinations at the Federal Housing Finance Agency (FHFA) where he is responsible for affordable housing, fair lending, minority and women inclusion, and consumer protection supervision of the government-sponsored enterprises (Fannie Mae, Freddie Mac, and the Federal Home Loan Banks). Before his current role, James was the founding director of the Office of Fair Lending Oversight at FHFA, where he built the consumer protection and fair lending oversight functions at the agency. James served as FHFA's representative on the Property Appraisal and Valuation Equity (PAVE) taskforce, and led the policy implementation of FHFA's public appraisal datasets.  
