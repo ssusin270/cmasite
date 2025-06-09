@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Presentations
-subtitle: administrative law / affordable housing / consumer finance / data governance / fair lending / fair housing / GSEs / mortgages / privacy
+subtitle: Selected presentations and panel discussions
 ---
 
 ## 2024
