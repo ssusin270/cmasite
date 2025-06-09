@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cases
-subtitle: administrative law / affordable housing / consumer finance / data governance / fair lending / fair housing / GSEs / mortgages / privacy
+subtitle: Selected cases
 ---
 
 ### HUD v. Texan RV Park
