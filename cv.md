@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Experience
-subtitle: administrative law / affordable housing / consumer finance / data governance / fair lending / fair housing / GSEs / mortgages / privacy
+subtitle: FHFA / CFPB / HUD
 ---
 
 ## Professional Experience
