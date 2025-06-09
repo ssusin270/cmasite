@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Policies
-subtitle: Selected policies and regulations that James led or significantly contributed to
+subtitle: Selected policies and regulations
 ---
 
 ## Federal Housing Finance Agency
