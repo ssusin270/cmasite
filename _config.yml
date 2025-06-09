@@ -21,6 +21,7 @@ author: James Wylie
 
 navbar-links:
   About: "aboutme"
+  Practice: "practice"
   Experience: "cv"
   Cases: "cases"
   Policies: "publications"
