@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Policies
-subtitle: administrative law / affordable housing / consumer finance / data governance / fair lending / fair housing / GSEs / mortgages / privacy
+subtitle: Selected policies and regulations that James led or significantly contributed to
 ---
 
 ## Federal Housing Finance Agency
