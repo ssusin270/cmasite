@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Presentations
-subtitle: fair and affordable housing, consumer financial regulation, government-sponsored enterprises, data and privacy
+subtitle: administrative law / affordable housing / consumer finance / data governance / fair lending / fair housing / GSEs / mortgages / privacy
 ---
 
 ### [Appraisal Subcommittee: Appraisal Bias Hearing 2024](https://www.youtube.com/watch?v=Kz-rtRWp5k0)
