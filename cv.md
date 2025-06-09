@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Experience
-subtitle: FHFA / CFPB / HUD
+subtitle: FHFA / CFPB / HUD / JD / CMCP
 ---
 
 ## Professional Experience
