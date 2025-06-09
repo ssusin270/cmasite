@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: James W Wylie, JD, CMCP
 subtitle: administrative law / affordable housing / consumer finance / data governance / fair lending / fair housing / GSEs / mortgages / privacy
 ---
 
