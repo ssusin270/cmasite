@@ -14,6 +14,12 @@ James represented FHFA as a panelist on the final Appraisal Subcommittee hearing
 ### [Asurity: Fair Lending Forum](https://www.fairlendingforum.com/fair-lending-forum-2024/speakers/)
 James presented as part of a panel on fair servicing, discussing improving language access in mortgage servicing and how fair lending data can be used by servicers to ensure fairness.
 
+### Federal Home Loan Banks Audit and Risk Conference
+James presented on compliance with public interest requirements.
+
+### Federal Home Loan Banks Community Advisory Board Meeting
+James presented on compliance with affordable housing requirements.
+
 ### National Fair Housing Training Academy: The Many Forms of Mortgage Discrimination
 James presented as part of NFHTA's webinar focused on investigating mortgage discrimination cases.
 
@@ -37,11 +43,12 @@ FHFA hosted a virtual listening session for stakeholders to provide input into t
 ### Consumer Bankers Association: CBA Live
 James presented on a panel covering the issue of appraisal bias at Consumer Bankers Association annual conference in Las Vegas, NV.
 
+## 2022
+---
 ### [Philadelphia Fed: Advancing Homeownership Opportunity to Narrow Racial Disparities 2022](https://www.philadelphiafed.org/calendar-of-events/advancing-homeownership-opportunity-to-narrow-racial-disparities-part-1)
 The Federal Reserve Bank of Philadelphia hosted a virtual panel discussion on Federal Programs to Advance Homeownership Opportunity to Narrow Racial Disparities which include remarks by James.
 
-## 2022
----
+
 ### [Appraisal Foundation: Advisory Councils Joint Meeting Keynote Address](https://www.appraisalfoundation.org/imis/TAFCore/Events/Event_Display.aspx?EventKey=062822)
 James provided a keynote address on Equitable Housing Finance Plans for Fannie Mae and Freddie Mac at the joint meeting in Arlington, VA.
 
@@ -73,5 +80,5 @@ James presented on on recent policy updates related to HMDA and led a discussion
 
 ## 2016
 ---
-### Wolters Kluwer: Fair Lending Colloqium
+### Wolters Kluwer: Fair Lending Colloquium
 James presented in Las Vegas, NV, on compliance with the new HMDA rule implementing the Dodd-Frank Act changes.
