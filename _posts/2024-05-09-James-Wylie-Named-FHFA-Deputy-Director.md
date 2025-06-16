@@ -6,6 +6,8 @@ tags: [James Wylie, fair lending, fair housing, affordable housing, FHFA]
 author: Oologah Lake Leader
 ---
 
+_This article originally appeared in the [Oologah Lake Leader](https://www.reidnewspapers.com/oologahlakeleader)_
+
 James W. Wylie, an Oologah-Talala graduate, was recently named Deputy Director of a new division at a major federal agency in Washington, D.C.  
 
 The Federal Housing Finance Agency (FHFA) on April 29 announced creation of a new Division of Public Interest Examination (DPIE), which will be responsible for 
