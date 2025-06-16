@@ -6,8 +6,6 @@ tags: [James Wylie, fair lending, fair housing, affordable housing, FHFA, GSEs]
 author: Jim Davis, Scotsman Guide
 ---
 
-_This article originally printed in [Scotsman Guide](https://www.scotsmanguide.com/residential/equitable-housing-plans-aim-to-reverse-embarrassingly-low-numbers/)_
-
 In 2020, Fannie Mae and Freddie Mac purchased a respective $1.4 trillion and $1.1 trillion in loans, providing important liquidity to the U.S. housing market. Of the loans purchased, the vast majority went to white borrowers (65.6% for Fannie and 64.6% for Freddie), according to the National Housing Resource Center.  
 
 By comparison, only a fraction of the loans purchased by the government-sponsored enterprises (GSEs) went to Black and Hispanic borrowers. Only 3% of Fannie’s loans went to Black borrowers and 8% went to Hispanic borrowers. Freddie Mac had similar numbers, with Blacks and Hispanics accounting for 3.3% and 6.8% of all borrowers.  
@@ -40,4 +38,6 @@ The day after the equitable housing plans were announced, Fannie and Freddie rea
 
 Fostering affordable-housing efforts was a particular strength for Fannie and Freddie in the past, says Dworkin, who is part of the Black Homeownership Collaborative. But the GSEs have lost an enormous amount of experience over the years and they’ll need rebuild that, he adds.  
 
-There are headwinds for all borrowers at the moment due to rising interest rates, higher home prices and a lack of inventory. Still, Dworkin points to Freddie Mac research which shows that 1.7 million Black millennials in the 31 largest U.S. cities would qualify for a mortgage.“ I think, for them, the issue is convincing them to become homeowners — not the cost,” Dworkin says.
+There are headwinds for all borrowers at the moment due to rising interest rates, higher home prices and a lack of inventory. Still, Dworkin points to Freddie Mac research which shows that 1.7 million Black millennials in the 31 largest U.S. cities would qualify for a mortgage.“ I think, for them, the issue is convincing them to become homeowners — not the cost,” Dworkin says.  
+
+_This article originally printed in [Scotsman Guide](https://www.scotsmanguide.com/residential/equitable-housing-plans-aim-to-reverse-embarrassingly-low-numbers/)_
