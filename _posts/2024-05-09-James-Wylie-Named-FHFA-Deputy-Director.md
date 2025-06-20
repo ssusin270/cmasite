@@ -4,7 +4,7 @@ title: James Wylie Named FHFA Deputy Director
 subtitle:
 tags: [James Wylie, fair lending, fair housing, affordable housing, FHFA]
 author: Oologah Lake Leader
-thumbnail-img: /assets/image/lakeleader.jpg
+thumbnail-img: /assets/img/lakeleader.jpg
 ---
 
 James W. Wylie, an Oologah-Talala graduate, was recently named Deputy Director of a new division at a major federal agency in Washington, D.C.  
