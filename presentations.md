@@ -2,6 +2,7 @@
 layout: page
 title: Presentations
 subtitle: Selected presentations and panel discussions
+cover-img: /assets/img/libraryofcongress.jpg
 ---
 
 ## 2024
