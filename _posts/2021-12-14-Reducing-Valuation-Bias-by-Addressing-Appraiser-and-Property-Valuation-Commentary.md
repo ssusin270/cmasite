@@ -4,6 +4,7 @@ title: Reducing Valuation Bias by Addressing Appraiser and Property Valuation Co
 subtitle: Examples from FHFA Review
 tags: [fair lending, fair housing, appraisals, overt discrimination]
 author: Chandra Broadnax and James Wylie
+thumbnail-img: /assets/img/FHFA-Logo-1.jpg
 ---
 
 * Examples of overt references to race, ethnicity, and other prohibited bases under federal fair lending laws in appraisals and other property descriptions persist, indicating the continued presence of valuation bias.
