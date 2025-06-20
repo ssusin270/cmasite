@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Practice Areas
-subtitle: administrative law / affordable housing / consumer finance / data governance / fair lending / fair housing / GSEs / mortgages / privacy
+subtitle: administrative law / affordable housing / consumer finance / data governance / fair lending / fair housing / mortgages / privacy
 ---
 
 ## Administrative Law
@@ -73,31 +73,20 @@ subtitle: administrative law / affordable housing / consumer finance / data gove
 * Consent Orders
 * Conciliation Agreements
 
-## Government-Sponsored Enterprises (GSEs)
-* Capital Standards
-* Charter Issues
-* Conservatorship Issues
-* Affordable Housing and Community Development Programs
-* Selling and Servicing Guides
-* Automated Underwriting Systems
-
 ## Mortgages
 * Underwriting
 * Pricing
 * Qualifed Mortgage Rules (QM)
 * Homeowners Protection Act (HOPA)
 * Home Ownership and Equity Protection Act (HOEPA)
-* Government (FHA, VA, USDA, HFA) Lending
+* Fannie, Freddie, FHA, VA, USDA, HFA Programs
 * Servicing
+* Automated Underwriting Systems
 
 ## Privacy
-* Privacy compliance programs
-* Privacy by design
-* Privacy notices
+* Privacy Compliance Programs
+* Privacy by Design
+* Privacy Notices
 * Consent
 * Third-Party Agreements
 * Gramm-Leach Bliley Act (GLBA)
-* CAN-SPAM Act
-* Health Insurance Portability and Accountability Act (HIPAA) Privacy
-* Childrens Online Privacy Protection Rule (COPPA)
-* General Data Protection Regulation (GDPR)
