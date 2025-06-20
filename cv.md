@@ -2,6 +2,7 @@
 layout: page
 title: Experience
 subtitle: FHFA / CFPB / HUD / JD / CMCP
+cover-img: /assets/img/baltimore.jpg
 ---
 
 ## Professional Experience
