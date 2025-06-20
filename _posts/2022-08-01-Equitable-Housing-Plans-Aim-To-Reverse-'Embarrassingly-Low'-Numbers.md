@@ -4,6 +4,7 @@ title: Equitable Housing Finance Plans Aim to Reverse 'Embarrassingly Low' Numbe
 subtitle:
 tags: [James Wylie, fair lending, fair housing, affordable housing, FHFA, GSEs]
 author: Jim Davis, Scotsman Guide
+thumbnail-img: /assets/img/scotsmanguide.jpg
 ---
 
 In 2020, Fannie Mae and Freddie Mac purchased a respective $1.4 trillion and $1.1 trillion in loans, providing important liquidity to the U.S. housing market. Of the loans purchased, the vast majority went to white borrowers (65.6% for Fannie and 64.6% for Freddie), according to the National Housing Resource Center.  
