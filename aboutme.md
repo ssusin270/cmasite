@@ -1,7 +1,7 @@
 ---
 layout: page
 title: James W Wylie
-subtitle: Attorney and consultant with deep expertise in fair lending, consumer protection, privacy, and housing policy
+subtitle: Attorney and consultant with deep expertise in fair lending, consumer financial regulation, privacy, and housing policy
 cover-img: /assets/img/rowhouses.jpg
 ---
 
