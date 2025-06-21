@@ -2,7 +2,7 @@
 layout: page
 title: Cases
 subtitle: Selected cases
-cover-img: /assets/img/mlk.jpg
+cover-img: /assets/img/smithsonian.jpg
 ---
 
 ### HUD v. Texan RV Park
