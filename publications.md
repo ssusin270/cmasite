@@ -91,4 +91,4 @@ _Press:_ [Washington Post](https://www.washingtonpost.com/news/wonk/wp/2015/06/2
 ### [Affirmatively Furthering Fair Housing Proposed Rule](https://www.federalregister.gov/documents/2013/07/19/2013-16751/affirmatively-furthering-fair-housing)
 James contributed to the proposed rule related to implementing Section 808(e)(5) of the Fair Housing Act, which requires HUD to administer the programs and activities relating to housing and urban development in a manner affirmatively to further the Fair Housing Act.
 
-_Press:_ [New York Times](https://www.nytimes.com/2015/07/09/us/hud-issuing-new-rules-to-fight-segregation.html), [Washington Post](https://www.washingtonpost.com/news/wonk/wp/2015/07/08/obama-administration-to-unveil-major-new-rules-targeting-segregation-across-u-s/).
+_Press:_ [New York Times](https://www.nytimes.com/2015/07/09/us/hud-issuing-new-rules-to-fight-segregation.html), [Washington Post](https://www.washingtonpost.com/news/wonk/wp/2015/07/08/obama-administration-to-unveil-major-new-rules-targeting-segregation-across-u-s/)
