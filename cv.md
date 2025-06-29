@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Experience
-subtitle: FHFA / CFPB / HUD / JD / CMCP
+subtitle: FHFA / ex-CFPB / ex-HUD / JD / CMCP
 cover-img: /assets/img/lincolnmemorial.jpg
 ---
 
