@@ -3,6 +3,7 @@ layout: page
 title: Policies
 subtitle: Selected policies and regulations
 cover-img: /assets/img/capitol.jpg
+after-content: signup.html
 ---
 
 ## Federal Housing Finance Agency
