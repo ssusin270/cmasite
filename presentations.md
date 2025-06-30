@@ -3,6 +3,7 @@ layout: page
 title: Presentations
 subtitle: Selected presentations and panel discussions
 cover-img: /assets/img/jefferson.jpg
+after-content: signup.html
 ---
 
 ## 2024
