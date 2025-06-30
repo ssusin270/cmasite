@@ -3,7 +3,7 @@ layout: page
 title: James W Wylie
 subtitle: Attorney and consultant with deep expertise in fair lending, consumer financial regulation, privacy, and housing policy
 cover-img: /assets/img/rowhouses.jpg
-head-extra: <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/d3679c4132f6519dd5e8ffad6/64db7a53a7b4f94cce2e646d6.js");</script>
+footer-extra: signup.html
 ---
 
 James currently serves as the Deputy Director for the Division of Public Interest Examinations at the Federal Housing Finance Agency (FHFA) where he is responsible for affordable housing, fair lending, minority and women inclusion, and consumer protection supervision of the government-sponsored enterprises (Fannie Mae, Freddie Mac, and the Federal Home Loan Banks). Before his current role, James was the founding director of the Office of Fair Lending Oversight at FHFA, where he built the consumer protection and fair lending oversight functions at the agency. James served as FHFA's representative on the Property Appraisal and Valuation Equity (PAVE) taskforce, and led the policy implementation of FHFA's public appraisal datasets.  
