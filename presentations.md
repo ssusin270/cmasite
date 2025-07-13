@@ -4,6 +4,7 @@ title: Presentations
 subtitle: Selected presentations and panel discussions
 cover-img: /assets/img/jefferson.jpg
 after-content: signup.html
+head-extra: favicon.html
 ---
 
 ## 2024
