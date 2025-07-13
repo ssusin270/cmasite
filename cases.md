@@ -4,6 +4,7 @@ title: Cases
 subtitle: Selected cases
 cover-img: /assets/img/smithsonian.jpg
 after-content: signup.html
+head-extra: favicon.html
 ---
 
 ### HUD v. Texan RV Park
