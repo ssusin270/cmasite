@@ -1,14 +1,20 @@
 ---
 layout: page
-title: James W Wylie
-subtitle: Attorney and consultant with deep expertise in fair lending, consumer financial regulation, privacy, and housing policy
-cover-img: /assets/img/cartoon-rowhouses-4.png
-after-content: signup.html
+title: Center for Mortgage Access
+subtitle: Preserving public mortgage finance
+subtitle2: Keeping homeownership within reach
+cover-img: /assets/img/cartoon-rowhouses-4t50.png
+#after-content: signup.html
 head-extra: favicon.html
 ---
+About CMA
+=========
 
-James currently serves as the Deputy Director for the Division of Public Interest Examinations at the Federal Housing Finance Agency (FHFA) where he is responsible for affordable housing, fair lending, minority and women inclusion, and consumer protection supervision of the government-sponsored enterprises (Fannie Mae, Freddie Mac, and the Federal Home Loan Banks). Before his current role, James was the founding director of the Office of Fair Lending Oversight at FHFA, where he built the consumer protection and fair lending oversight functions at the agency. James served as FHFA's representative on the Property Appraisal and Valuation Equity (PAVE) taskforce, and led the policy implementation of FHFA's public appraisal datasets.  
+The Center for Mortgage Access (CMA) is a policy research organization focused on housing and mortgage finance, with particular attention to issues of access and equity.
 
-James served as a Senior Counsel in the Office of Regulations at the Consumer Financial Protection Bureau (CFPB) prior to his time at FHFA. At CFPB he wrote numerous regulations, served as the team leader for the Dodd-Frank Act Section 1071 small business data rule, contributed significantly to the Home Mortgage Disclosure Act rules, led the safe harbor for the Uniform Residential Loan Application, and served as the head of the Equal Credit Opportunity Act (ECOA)/Regulation B regulatory guidance group responsible for providing informal compliance guidance to regulated parties.   
+Today, the federal government guarantees roughly three-quarters of all U.S. mortgages through institutions such as Fannie Mae, Freddie Mac, the Federal Housing Administration, the Department of Veterans Affairs, and the Rural Housing Service. This public backing has helped expand access to homeownership, lower borrowing costs, and shift financial risk away from households and onto institutions better equipped to manage it. CMA conducts research and analysis to help preserve and strengthen these public benefits.
 
-James also served as a fair housing Trial Attorney at the U.S. Department of Housing and Urban Development (HUD) prior to his time at CFPB. At HUD he contributed to several HUD rulemakings (including the Fair Housing Act disparate impact rule), served as the agency representative on the Department of Justice Limited English Proficiency (LEP) taskforce, and worked on numerous fair housing and civil rights cases and matters. James has also worked as an instructor and course developer for the National Fair Housing Training Academy where he trained fair housing investigators and attorneys.
+CMA was founded in 2025 by economist Scott Susin, following his tenure at the Federal Housing Finance Agency—the primary regulator of Fannie Mae and Freddie Mac—where his work focused on consumer protection, fair lending, and affordable housing. Previously, he served as an economist in the Office of Systemic Investigations at the U.S. Department of Housing and Urban Development, where he led econometric analysis for two of HUD’s largest fair lending settlements, including what was then the largest redlining case in U.S. history.
+
+Scott’s research has been published in leading academic journals and covered in national media, academic handbooks, and textbooks. 
+His studies have explored appraisal bias, statistical methods for calculating damages and the impacts of subsidized housing on local house prices and employment.
