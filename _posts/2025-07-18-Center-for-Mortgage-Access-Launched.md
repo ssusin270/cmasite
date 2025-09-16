@@ -25,7 +25,7 @@ At a time of mounting concern about housing affordability and rising mortgage
 costs, CMA is the first organization focused exclusively on preserving and 
 strengthening the federal government’s role in mortgage finance.
 
-“There’s a well-established ecosystem of organization engaged in housing 
+“There’s a well-established ecosystem of organizations engaged in housing 
 advocacy 
 and policy work,”  said founder Scott Susin, “but there’s a gap when it comes 
 to protecting and 
