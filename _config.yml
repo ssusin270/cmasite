@@ -5,6 +5,9 @@
 ### the initial set up you won't need to come back to this file often.
 ###########################################################
 
+# I think this is necessary so the canonical url is set to https when using a GitHub project page
+website: https://mortgageaccesscenter.com
+
 ############################
 # --- Required options --- #
 ############################
