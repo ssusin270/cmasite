@@ -2,6 +2,7 @@
 layout: post
 title: Liquidation in All but Name
 subtitle: The Case Against Shareholder Compensation
+head-extra: favicon.html
 tags: [Fannie Mae, Freddie Mac, FHFA, bailout, Scott Susin]
 author: Scott Susin
 thumbnail-img: /assets/img/cmaLogo-wtext.png

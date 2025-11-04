@@ -2,6 +2,7 @@
 layout: post
 title: Letting Fannie and Freddie shareholders cash in would be a huge mistake
 subtitle: "<i>The Hill</i> Op-Ed"
+head-extra: favicon.html
 tags: [Fannie Mae, Freddie Mac, FHFA, bailout, Scott Susin]
 author: Scott Susin
 thumbnail-img: /assets/img/cartoon-rowhouses-4.png

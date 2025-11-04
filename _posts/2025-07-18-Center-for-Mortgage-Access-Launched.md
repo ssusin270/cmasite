@@ -2,6 +2,7 @@
 layout: post
 title: Center for Mortgage Access Launched
 subtitle: New Policy Organization Launches to Focus on Public Mortgage Finance Institutions and Housing Access
+head-extra: favicon.html
 tags: [Fannie Mae, Freddie Mac, FHFA, FHA, GNMA, bailout, Scott Susin]
 author: Scott Susin
 thumbnail-img: /assets/img/cartoon-rowhouses-4.png
