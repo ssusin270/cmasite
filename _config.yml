@@ -113,7 +113,7 @@ share-links-active:
 url-pretty: "MortgageAccessCenter.com"
 
 # Add the website title to the title of every page
-title-on-all-pages: true
+title-on-all-pages: false
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50

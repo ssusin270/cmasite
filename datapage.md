@@ -2,7 +2,7 @@
 layout: page
 title: Data Page
 subtitle: Data available to download
-cover-img: /assets/img/cartoon-rowhouses-4t50.png
+cover-img: /assets/img/data_page.svg
 #after-content: signup.html
 head-extra: favicon.html
 ---
