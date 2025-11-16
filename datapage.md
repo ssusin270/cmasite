@@ -19,13 +19,37 @@ Secondary market shares and market share predictors for Metropolitan Areas, Metr
 
 ## FHA Monthly Time Series Data
 
-FHA aggregate monthly data scraped from [HUD FHA Production Reports](https://www.hud.gov/hud-partners/fha-production-report).
+<style>
+.data-table { width: 100%; }
+.data-table th:first-child, .data-table td:first-child { width: 120px; }
+</style>
 
-| Table   | Description | Download |
-|---------|-------------|----------|
-| Table&nbsp;1 | Single Family Insured Mortgage Portfolio Change during Month | [fha_data_tab1.csv](assets/data/fha_data_tab1.csv) |
-| Table&nbsp;3 | Title I Insured Mortgage Portfolio Change during Month | [fha_data_tab3.csv](assets/data/fha_data_tab3.csv) |
-| Table&nbsp;4 | Single Family Insured Mortgage Endorsement Characteristic Shares | [fha_data_tab4.csv](assets/data/fha_data_tab4.csv) |
+<table class="data-table">
+  <thead>
+    <tr>
+      <th>Table</th>
+      <th>Description</th>
+      <th>Download</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Table 1</td>
+      <td>Single Family Insured Mortgage Portfolio Change during Month</td>
+      <td><a href="assets/data/fha_data_tab1.csv">fha_data_tab1.csv</a></td>
+    </tr>
+    <tr>
+      <td>Table 3</td>
+      <td>Title I Insured Mortgage Portfolio Change during Month</td>
+      <td><a href="assets/data/fha_data_tab3.csv">fha_data_tab3.csv</a></td>
+    </tr>
+    <tr>
+      <td>Table 4</td>
+      <td>Single Family Insured Mortgage Endorsement Characteristic Shares</td>
+      <td><a href="assets/data/fha_data_tab4.csv">fha_data_tab4.csv</a></td>
+    </tr>
+  </tbody>
+</table>
 
 *Data automatically updated monthly via [GitHub Actions](https://github.com/ssusin270/ScrapeFHA)*
 
