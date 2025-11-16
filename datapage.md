@@ -9,7 +9,7 @@ head-extra: favicon.html
 
 # Market Share Data
 
-Secondary market shares and market share predictors for Metropolitan Areas, Metropolitan Divisions, and non-Metro portions of States (from HMDA data).
+Data used in the report [Who Benefits from Government Mortgage Guarantees?](https://mortgageaccesscenter.com/2025-11-04-Who-Benefits-From-Government-Mortgage-Guarantees/).  Secondary market shares and market share predictors for Metropolitan Areas, Metropolitan Divisions, and non-Metro portions of States (from HMDA data).  
 
 | Year | File |
 |------|------|
@@ -48,7 +48,7 @@ FHA aggregate monthly data scraped from [HUD FHA Production Reports](https://www
   </tbody>
 </table>
 
-*Data automatically updated monthly via [GitHub Actions](https://github.com/ssusin270/ScrapeFHA)*
+*FHA Data automatically updated monthly via [GitHub Actions](https://github.com/ssusin270/ScrapeFHA)*
 
 ---
 
