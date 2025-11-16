@@ -18,6 +18,9 @@ Secondary market shares and market share predictors for Metropolitan Areas, Metr
 ---
 
 ## FHA Monthly Time Series Data
+
+FHA aggregate monthly data scraped from [HUD FHA Production Reports](https://www.hud.gov/hud-partners/fha-production-report): May 2013 to present.  These files compile data from the pdf tables FHA releases each month.
+
 <table style="width: 100%;">
   <thead>
     <tr>
