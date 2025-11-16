@@ -18,18 +18,12 @@ Secondary market shares and market share predictors for Metropolitan Areas, Metr
 ---
 
 ## FHA Monthly Time Series Data
-
-<style>
-.data-table { width: 100%; }
-.data-table th:first-child, .data-table td:first-child { width: 120px; }
-</style>
-
-<table class="data-table">
+<table style="width: 100%;">
   <thead>
     <tr>
-      <th>Table</th>
+      <th style="width: 120px;">Table</th>
       <th>Description</th>
-      <th>Download</th>
+      <th style="width: 180px;">Download</th>
     </tr>
   </thead>
   <tbody>
