@@ -13,7 +13,7 @@ Data used in the report [Who Benefits from Government Mortgage Guarantees?](http
 
 | Year | File |
 |------|------|
-| 2024 | [metro_share_database.xlsx](assets/xls/metro_share_database.xlsx) |
+| 2024 | [metro_share_database.xlsx](../assets/xls/metro_share_database.xlsx) |
 
 ---
 
@@ -33,17 +33,17 @@ FHA aggregate monthly data scraped from [HUD FHA Production Reports](https://www
     <tr>
       <td>Table 1</td>
       <td>Single Family Insured Mortgage Portfolio Change during Month</td>
-      <td><a href="assets/data/fha_data_tab1.csv">fha_data_tab1.csv</a></td>
+      <td><a href="../assets/data/fha_data_tab1.csv">fha_data_tab1.csv</a></td>
     </tr>
     <tr>
       <td>Table 3</td>
       <td>Title I Insured Mortgage Portfolio Change during Month</td>
-      <td><a href="assets/data/fha_data_tab3.csv">fha_data_tab3.csv</a></td>
+      <td><a href="../assets/data/fha_data_tab3.csv">fha_data_tab3.csv</a></td>
     </tr>
     <tr>
       <td>Table 4</td>
       <td>Single Family Insured Mortgage Endorsement Characteristic Shares</td>
-      <td><a href="assets/data/fha_data_tab4.csv">fha_data_tab4.csv</a></td>
+      <td><a href="../assets/data/fha_data_tab4.csv">fha_data_tab4.csv</a></td>
     </tr>
   </tbody>
 </table>
