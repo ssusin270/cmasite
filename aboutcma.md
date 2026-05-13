@@ -14,6 +14,8 @@ The Center for Mortgage Access (CMA) is a policy research organization focused o
 
 Today, the federal government guarantees roughly three-quarters of all U.S. mortgages through institutions such as Fannie Mae, Freddie Mac, the Federal Housing Administration, the Department of Veterans Affairs, and the Rural Housing Service. This public backing has helped expand access to homeownership, lower borrowing costs, and shift financial risk away from households and onto institutions better equipped to manage it. CMA conducts research and analysis to help preserve and strengthen these public benefits.
 
+Access to homeownership also depends on the supply of affordable homes. Zoning restrictions on small lots, missing middle housing, and manufactured homes (the most affordable form of homeownership in the United States) limit the pathways into ownership for lower-income households. CMA also conducts research on federal, state, and local policies that shape the supply of affordable homeownership.
+
 CMA was founded in 2025 by economist Scott Susin, following his tenure at the Federal Housing Finance Agency—the primary regulator of Fannie Mae and Freddie Mac—where his work focused on consumer protection, fair lending, and affordable housing. Previously, he served as an economist in the Office of Systemic Investigations at the U.S. Department of Housing and Urban Development, where he led econometric analysis for two of HUD’s largest fair lending settlements, including what was then the largest redlining case in U.S. history.
 
 Scott’s research has been published in leading academic journals and covered in national media, academic handbooks, and textbooks. 
