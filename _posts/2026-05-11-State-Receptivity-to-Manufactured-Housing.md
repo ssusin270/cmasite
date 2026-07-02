@@ -20,5 +20,5 @@ housing will require more than legislation: enforcement and federal action on fi
 are likely both necessary.
 
 
-[**[Complete Report]**](/assets/pdf/CMA - State MH Receptivity Report.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[**[Complete Report]**](/assets/pdf/CMA - State MH Receptivity Report.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [**[*Governing* Article]**](https://www.governing.com/urban/manufactured-housings-unrealized-promise)
 
